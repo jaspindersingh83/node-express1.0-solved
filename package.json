@@ -1,0 +1,16 @@
+{
+  "name": "nirvanguessingmovies",
+  "version": "1.0.0",
+  "description": "nirvanguessingmovies",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Jaspinder",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.4"
+  }
+}
